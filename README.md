@@ -1,3 +1,2 @@
-# portfolio-android-app
-# portfolio-android-app
-# portfolio-android-app
+# Android app for Portfolio
++ includes basic activities, views and action events.
